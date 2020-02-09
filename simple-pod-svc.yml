@@ -1,7 +1,7 @@
 apiVersion: api
 kind: Service
 metadata:
- name: simple-svc
+ name: simple-pod-svc
 spec:
  selector:
   app: ngnix
